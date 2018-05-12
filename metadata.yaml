@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '26005'
     url: http://www.gutenberg.org/2009/agents/26005
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23738#The-Thing-from-the-Lake
 gutenberg_issued: '2007-12-04'
 gutenberg_type: Text
 identifiers:
